@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7c4b4c0b-6d82-4e43-9f6b-3ad9a9d46068",
+    "name": "Maria Silva",
+    "email": "maria.silva@example.com",
+    "phone": "(11) 99999-9999"
+  },
+  {
+    "id": "8a3b6d29-60e8-4b43-9c6d-60d7f4c3a5d7",
+    "name": "João Santos",
+    "email": "joao.santos@example.com",
+    "phone": "(21) 88888-8888"
+  },
+  {
+    "id": "9f5c7e4b-84d4-49f3-988e-c6c889d5b7c3",
+    "name": "Ana Costa",
+    "email": "ana.costa@example.com",
+    "phone": "(31) 77777-7777"
+  },
+  {
+    "id": "af1d2c54-5e6a-4c9d-b5d6-3f2cb8e23d7b",
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@example.com",
+    "phone": "(41) 66666-6666"
+  },
+  {
+    "id": "bd4c8b29-2d4b-4a86-a3d2-0edc5477d8ab",
+    "name": "Lucia Ferreira",
+    "email": "lucia.ferreira@example.com",
+    "phone": "(51) 55555-5555"
+  },
+  {
+    "id": "ce5e3d57-0b58-4c8a-a6d5-78d1cb87d89f",
+    "name": "Carlos Lima",
+    "email": "carlos.lima@example.com",
+    "phone": "(61) 44444-4444"
+  },
+  {
+    "id": "de4f8c3e-5c46-46d6-b7b8-19b817f70678",
+    "name": "Juliana Oliveira",
+    "email": "juliana.oliveira@example.com",
+    "phone": "(71) 33333-3333"
+  },
+  {
+    "id": "ef6b7e29-946b-4d7e-8b2d-56c5d59a81f3",
+    "name": "Roberto Silva",
+    "email": "roberto.silva@example.com",
+    "phone": "(81) 22222-2222"
+  },
+  {
+    "id": "f13c0a2e-1e98-438d-b9e5-7d2e6b2b7a9c",
+    "name": "Fernanda Pereira",
+    "email": "fernanda.pereira@example.com",
+    "phone": "(91) 11111-1111"
+  },
+  {
+    "id": "g24d8b3e-4d8e-4c1a-bc2b-91b22c60f947",
+    "name": "Bruno Santos",
+    "email": "bruno.santos@example.com",
+    "phone": "(21) 99999-1111"
+  }
+]
